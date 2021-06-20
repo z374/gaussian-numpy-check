@@ -36,15 +36,6 @@ class probability(object):
         show(self.p)
 
 
-    
-    
-
-
-        
-
-
-
-
 
 
 
@@ -52,3 +43,4 @@ if __name__ == "__main__":
     p = probability()
     p.print_distribution(p.gauss_random_variable, 0, 1, 100000)
     p.print_distribution(p.normal_random_variable, 0, 1, 100000)
+    "uhuh"
